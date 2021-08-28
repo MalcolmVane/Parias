@@ -2,25 +2,79 @@ const organisms = [
   {
     title: 'Lanternfish',
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Myctophum_punctatum1.jpg',
-    description: `Lanternfishes (or myctophids, from the Greek μυκτήρ myktḗr, "nose" and ophis, "serpent") are small mesopelagic fish of the large family Myctophidae. One of two families in the order Myctophiformes, the Myctophidae are represented by 246 species in 33 genera, and are found in oceans worldwide. Lanternfishes are aptly named after their conspicuous use of bioluminescence. Their sister family, the Neoscopelidae, are much fewer in number but superficially very similar; at least one neoscopelid shares the common name 'lanternfish': the large-scaled lantern fish, Neoscopelus macrolepidotus.(from wikipedia.org)`,
-    wikipedia: 'https://en.m.wikipedia.org/wiki/Lanternfish'
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Lanternfish',
+    keywords: 'seed;'
   },
   {
     title: 'Koi',
     image: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Ojiya_Nishikigoi_no_Sato_ac_%283%29.jpg',
-    description: `Koi (鯉, English: /ˈkɔɪ/, Japanese: [koꜜi]) or more specifically nishikigoi (錦鯉, Japanese: [ɲiɕi̥kiꜜɡoi], literally "brocaded carp"), are colored varieties of the Amur carp (Cyprinus rubrofuscus) that are kept for decorative purposes in outdoor koi ponds or water gardens.(from wikipedia.org)`,
-    wikipedia: 'https://en.m.wikipedia.org/wiki/Koi'
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Koi',
+    keywords: 'seed;'
   },
   {
-    title: 'Leaf Slug',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Costasiella_cf_kuroshimae.png',
-    description: `Costasiella kuroshimae, also known as a "leaf slug"[1], "leaf sheep",[2] or "salty ocean caterpillar" is a species of sacoglossan sea slug. Costasiella kuroshimae are shell-less marine opisthobranch gastropod mollusks in the family Costasiellidae.[3] They range in size from 5 millimetres (0.20 in) to 1 centimetre (0.39 in) in length.(from wikipedia.org)`,
-    wikipedia: 'https://en.m.wikipedia.org/wiki/Costasiella_kuroshimae'
+    title: 'Eastern Milk Snake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Tennessee_milksnake.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Eastern_milk_snake',
+    keywords: 'seed;'
   },
   {
-    title: 'Earthworm',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Earthworm.JPG',
-    description: `An earthworm is a terrestrial invertebrate that belongs to the phylum Annelida. They exhibit a tube-within-a-tube body plan, are externally segmented with corresponding internal segmentation, and usually have setae on all segments.[1] They occur worldwide where soil, water, and temperature allow.[2] Earthworms are commonly found in soil, eating a wide variety of organic matter.[3] This organic matter includes plant matter, living protozoa, rotifers, nematodes, bacteria, fungi, and other microorganisms.[4] An earthworm's digestive system runs the length of its body.[5] It respires through its skin. It has a double transport system made of coelomic fluid that moves within the fluid-filled coelom and a simple, closed circulatory system. It has a central and peripheral nervous system. Its central nervous system consists of two ganglia above the mouth, one on either side, connected to a nerve running along its length to motor neurons and sensory cells in each segment. Large numbers of chemoreceptors concentrate near its mouth. Circumferential and longitudinal muscles edging each segment let the worm move. Similar sets of muscles line the gut, and their actions move digesting food toward the worm's anus.[6](from wikipedia.org)`,
-    wikipedia: 'https://en.m.wikipedia.org/wiki/Earthworm'
+    title: 'Common Watersnake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Nerodia_sipedonPCSL02111B1.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Common_watersnake',
+    keywords: 'seed;'
+  },
+  {
+    title: 'Ribbon Snake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/de/EasternRibbonSnake.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Ribbon_snake',
+    keywords: 'seed;'
+  },
+  {
+    title: ' Corn Snake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/ef/CornSnake.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Corn_snake',
+    keywords: 'seed;'
+  },
+  {
+    title: 'Western Rat Snake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Black_Rat_Snake_-_Elaphe_obsoleta_obsoleta%2C_Merrimac_Farm_Wildlife_Management_Area%2C_Virginia.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Pantherophis_obsoletus',
+    keywords: ''
+  },
+  {
+    title: 'Timber Rattlesnake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/28/Black_Rat_Snake_-_Elaphe_obsoleta_obsoleta%2C_Merrimac_Farm_Wildlife_Management_Area%2C_Virginia.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Pantherophis_obsoletus',
+    keywords: ''
+  },
+  {
+    title: 'Agkistrodon Piscivorous',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Florida_Water_Moccasin_056.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Agkistrodon_piscivorus',
+    keywords: 'seed;'
+  },
+  {
+    title: 'Bullsnake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/11/Pituophis_catenifer_sayi_007.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Bullsnake',
+    keywords: 'seed;'
+  },
+  {
+    title: 'Smooth Green Snake',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/52/Smooth_Green_Snake_%28Opheodrys_vernalis%29.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Smooth_green_snake',
+    keywords: 'seed;'
   }
 ];
+
