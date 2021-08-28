@@ -6,7 +6,8 @@ function search(text) {
   for (index in organisms) {
     let item = organisms[index];
     if (item.title.toLowerCase().includes(text.toLowerCase()) ||
-    item.description.toLowerCase().includes(text.toLowerCase())) {
+    item.keywords.includes(text.toLowerCase())
+    ) {
       if (item.wikipedia != null) {
         output.innerHTML += `<div class="result">
           <div class="imageBox"><img src="${item.image}"></div>
@@ -16,7 +17,7 @@ function search(text) {
                 <summary>info</summary>
                 <p>${item.description}</p>
                 <a href="${item.wikipedia}">${item.wikipedia}</a>
-                <iframe width="500" height="500" src="${item.wikipedia}"></iframe>
+                <p>Keywords:${item.keywords}</p>
               </details>
           </div>
         </div>`;
@@ -28,6 +29,7 @@ function search(text) {
               <details>
                 <summary>info</summary>
                 <p>${item.description}</p>
+                <p>Keywords:${item.keywords}</p>
               </details>
           </div>
         </div>`;
