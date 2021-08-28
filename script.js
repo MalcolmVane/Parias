@@ -3,6 +3,9 @@ let searchBar = document.querySelector('#searchBar');
 let submitButton = document.querySelector('#submit');
 
 function search(text) {
+  let loader = document.createElement("P");
+  loader.innerHTML = "loading...";
+  output.appendChild(loader);
   for (index in organisms) {
     let item = organisms[index];
     if (item.title.toLowerCase().includes(text.toLowerCase()) ||
@@ -34,6 +37,7 @@ function search(text) {
       }
     };
   };
+  output.removeChild(output.childNodes[0]);
 }
 
 searchBar.addEventListener('input', e => {
