@@ -10,7 +10,6 @@ function search(text) {
     ) {
       if (item.wikipedia != null) {
         output.innerHTML += `<div class="result">
-          <div class="imageBox"><img src="${item.image}"></div>
           <div class="container1">
             <h3>${item.title}</h3>
               <details>
@@ -23,7 +22,6 @@ function search(text) {
         </div>`;
       } else {
         output.innerHTML += `<div class="result">
-          <div class="imageBox"><img src="${item.image}"></div>
           <div class="container1">
             <h3>${item.title}</h3>
               <details>
