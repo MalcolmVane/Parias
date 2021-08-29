@@ -2,6 +2,13 @@ let output = document.querySelector('#output');
 let searchBar = document.querySelector('#searchBar');
 let submitButton = document.querySelector('#submit');
 
+function enable(id) {
+  document.getElementById(id.title).innerHTML += `
+    <div class="imageBox"><img src="${id.image}"></div>
+    <iframe src="${id.wikipedia}">
+  `;
+}
+
 function search(text) {
   let loader = document.createElement("P");
   loader.innerHTML = "loading...";
@@ -16,7 +23,7 @@ function search(text) {
           <div class="container1">
             <h3>${item.title}</h3>
               <details>
-                <summary>info</summary>
+                <summary id="${item.title}" onclick="enable(${item}){}">info</summary>
                 <p>${item.description}</p>
                 <a href="${item.wikipedia}">${item.wikipedia}</a>
                 <p>Keywords:${item.keywords}</p>
@@ -44,3 +51,4 @@ searchBar.addEventListener('input', e => {
   output.innerHTML = '';
   search(searchBar.value);
 });
+
