@@ -485,9 +485,388 @@ const organisms = [
   {
     title: 'Ring Billed Gull',
     image: 'https://upload.wikimedia.org/wikipedia/commons/e/e6/Ring-billed_gull_in_Red_Hook_%2842799%29.jpg',
-    description: `<p style="color:red;"><b>REDACTED</b></p>`,
+    description: `<b style="color:red;">REDACTED</b>`,
     wikipedia: 'https://en.m.wikipedia.org/wiki/Ring-billed_gull',
     keywords: 'chordates;seed;unintentional seed;seagull;conspiracy;bird;'
   },
+  {
+    title: 'Tunicate',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/cd/Tunicate_komodo.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Tunicate',
+    keywords: 'chordates;seed;animal;aquatic;'
+  },
+  {
+    title: 'Northern Snakehead',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Northern_snakehead.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Northern_snakehead',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Guadalupe Bass',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Guadalupe_bass_-_Micropterus_treculii.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Guadalupe_bass',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Blue Discus',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/96/Symphysodon_aequifasciatus_-_Karlsruhe_Zoo_03.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Symphysodon_aequifasciatus',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Black Crappie',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Pomoxis_nigromaculatus1.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Black_crappie',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Texas Shiner',
+    image: '',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Texas_shiner',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Black Bullhead',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Texas_Shiner.jpg',
+    description: ``,
+    wikipedia: '',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Striped Raphael Catfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Platydoras_costatus_2_%28Piotr_Kuczynski%29.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Striped_Raphael_catfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Peter`s Elephantnose Fish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/42/Gnathonemus_petersii.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Peters%27s_elephantnose_fish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'American Paddlefish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Polyodon_spathula_%D1%83_%D0%91%D1%83%D0%B4%D0%B0%D0%BF%D0%B5%D1%88%D1%86%D0%BA%D1%96%D0%BC_%D0%90%D0%BA%D0%B5%D0%B0%D0%BD%D0%B0%D1%80%D1%8B%D1%83%D0%BC%D0%B5_14.JPG',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/American_paddlefish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Colorado Pikeminnow',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Colorado_Pikeminnow.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Colorado_pikeminnow',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Khanka Spiky Bitterling',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Acanthorhodeus_chankaensis.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Khanka_spiny_bitterling',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Parrotfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f2/Scarus_frenatus_by_Ewa_Barska.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Parrotfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Hawaiian Cleaner Wrasse',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0d/Hawaiian_cleaner_wrasse.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Hawaiian_cleaner_wrasse',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Giant Oarfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/2a/Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Giant_oarfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Lookdown',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/77/Lookdown25.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Lookdown',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Banner Pompano',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e4/Palometa.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Trachinotus_goodei',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Bluefin Trevally',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Trevally_Nick_Hobgood.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Bluefin_trevally',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Anchovy',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Anchovy_closeup.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Anchovy',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Chinook Salmon',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Chinook_Salmon_Adult_Male.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Chinook_salmon',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Atlantic Sturgeon',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Acipenser_oxyrhynchus.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Atlantic_sturgeon',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Banggai Cardinalfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/da/Pterapogon_kauderni1.JPG',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Banggai_cardinalfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Spotted Ratfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f9/Hydrolagus_colliei.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Spotted_ratfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Cape Elephantfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/63/Cape_Elephantfish.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Cape_elephantfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Yellowfin Tuna',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Thunnus_albacares.png',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Yellowfin_tuna',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Atlantic Goliath Grouper',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/Itajara.JPG',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Atlantic_goliath_grouper',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Manta Ray',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/3/30/Dharavandhoo_Thila_-_Manata_Black_Pearl.JPG',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Manta_ray',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Spiny Dogfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/04/Squalus_acanthias_stellwagen.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Spiny_dogfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Greater Weever',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Trachinus_draco.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Greater_weever',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Sarcastic Fringehead',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Fringehead.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Sarcastic_fringehead',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Shortbill Spearfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/67/Tetrapturus_angustirostris_%28Shortbill_spearfish%29.gif',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Shortbill_spearfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Fire Goby',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Fire_dartfish_%28Nemateleotris_magnifica%29_%2843372442502%29.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Nemateleotris_magnifica',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Yellow Boxfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Kofferfisch_%28Ostracion_cubicus%29_02.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Yellow_boxfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Zebra Moray',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Gymnomuraena_zebra_by_NPS.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Zebra_moray',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Scup',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/Stenotomus_chrysops.png',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Scup',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Javelin Hookfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Lepidorhynchus_denticulatus_%28Thorntooth_grenadier%29.gif',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Thorntooth_grenadier',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Sand Tiger Shark',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Carcharias_taurus_SI.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Sand_tiger_shark',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Japanese Angelshark',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/56/Squatina_japonica2.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Japanese_angelshark',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Ice Goby',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f2/Shirouo0902.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Ice_goby',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Saddleback Clownfish',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/57/Amphiprion_Species.JPG',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Saddleback_clownfish',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Horn Shark',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/76/Hornhai_%28Heterodontus_francisci%29.JPG',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Horn_shark',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Sling-Jaw Wrasse',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Epibulus_insidiator_2.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Sling-jaw_wrasse',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Bonnethead Shark',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Sphyrna_tiburo_SI.jpg',
+    description: ``,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Bonnethead',
+    keywords: 'chordates;seed;animal;aquatic;fish;'
+  },
+  {
+    title: 'Grolar Bear',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Grolar.JPG',
+    description: `Grolar Bears are the wild natural hybrids of <a href="https://en.m.wikipedia.org/wiki/Polar_bear">Polar</a> and <a href="https://en.m.wikipedia.org/wiki/Grizzly_bear">Grizzly Bears</a>. Their impressive size and generalist eating habits made them a perfect hunting animal for Parias.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Grizzly%E2%80%93polar_bear_hybrid',
+    keywords: 'chordates;seed;animal;hybrid;mammal;'
+  },
+  {
+    title: 'Narluga',
+    image: '',
+    description: `Narlugas are the wild natural hybrids of Narwhals and Belugas. Being completely unlike their parents, they have six teeth on the bottom of their jaw that makes them perfect predators for shellfish at the seafloor. Despite Tex's wishes not to bring secondarily made marine chordates (he was a very interesting and contradictory man, no one really questioned his motives until after his death), they were added to deal with the massive overgrowth of shellfish in the polar seas.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Hybrid_(biology)#In_animals',
+    keywords: 'chordates;seed;animal;mammal;hybrid;aquatic;'
+  },
+  {
+    title: 'Greater Bird of Paradise',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Paradisaea_apoda_-Bali_Bird_Park-5.jpg',
+    description: `Unintentionaly brought to Parias after incorrect genetic samples and eggs were taken.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Greater_bird-of-paradise',
+    keywords: 'chordates;seed;animal;unintentional;bird;'
+  },
+  {
+    title: 'Northern Pudu',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Pudu_mephistolephis.png',
+    description: `Unintentionaly brought to Parias due to a human error. The common name assumed to be of North American origin.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Northern_pudu',
+    keywords: 'chordates;seed;animal;unintentional;mammal;'
+  },
+  {
+    title: 'Capybara',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Capybara_%28Hydrochoerus_hydrochaeris%29.JPG',
+    description: `Brought due to nepotism, as it was the favorite creature of Tex's daughter.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Capybara',
+    keywords: 'chordates;seed;animal;unintentional;mammal;'
+  },
+  {
+    title: 'Shoebill Stork',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Balaeniceps_rex.jpg',
+    description: `Brought due to nepotism, as Tex's older child complained about their sister getting to leave a species on the planet and wanted their own, too.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Shoebill',
+    keywords: 'chordates;seed;animal;'
+  },
+  {
+    title: 'Metasequoia Glyptostroboides',
+    image: 'https://upload.wikimedia.org/wikipedia/en/c/c4/SJSU_Dawn_Redwood.JPG',
+    description: `Brought to Parias unintentionaly, as it was believed to be an actual sequoia.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Metasequoia_glyptostroboides',
+    keywords: 'seed;dawn redwood;unintentional;plant;'
+  },
+  {
+    title: 'Eurasian Kestrel',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg',
+    description: `Brought to Parias when a Falconer's private collection of over two dozen Kestrels released after a massive storm. The falconer was heavily punished.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Common_kestrel',
+    keywords: 'chordates;seed;animal;unintentional;bird;'
+  },
+  {
+    title: 'Ship Rat',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Roofrat_Hagenbeck_02.jpg',
+    description: `The first terraforming ships accidentally brought live Ship Rats from earth and they got released onto Parias. Whilst the rats were not able to be exterminated, they were successfully unable to cross the border from the western continent to the rest of Parias.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Black_rat',
+    keywords: 'chordates;seed;animal;'
+  },
+  {
+    title: 'NeoMammoths',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Woolly_mammoth_model_Royal_BC_Museum_in_Victoria.jpg',
+    description: `NeoMammoths were altered organisms. Their base genome was of the Asian Elephant, but some modifications were made. Some genes were taken from frozen Woolly Mammoth smaples and used, and other genes were artificially altered to have the NeoMammoths superficially resemble their extinct cousins. Despite their genetic alterations and modifications, they were ablt to make fertile and viable offspring withought unnatural intervention, and was able to survive when other artificial species died out.`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Woolly_mammoth',
+    keywords: 'chordates;seed;animal;'
+  },
+  {
+    title: 'NeoCamelops',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/9/90/Camelops_color.jpg',
+    description: `NeoCamelops, like NeoMammoths, were altered organisms. Their bas genome was that of extant camels, but some genetic samples were taken from actual frozen Camelops specimens in Alaska, and other genes were altered so superficial cloned of the ancient American camels were alive once more. These camels could make fertile offspring, since they barely differ from their extant relative genetically speaking. Camelops and Mammoths both once existed in North America thousands of years ago before being wiped out by humans. Tex saw it as a strange sort of atonement for humankind to bring these species to life, and personally would have invested in making more viable and fertile offspring without outside help, but would eventually be forced off Parias by the SpacePETA incident. He would never live to see Parias as a free world again. <b style="color:red;">REDACTED</b>`,
+    wikipedia: 'https://en.m.wikipedia.org/wiki/Camelops',
+    keywords: 'chordates;seed;animal;'
+  },
 ];
+
 
