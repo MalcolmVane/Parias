@@ -863,7 +863,7 @@ const organisms = [
   {
     title: 'NeoCamelops',
     image: 'https://upload.wikimedia.org/wikipedia/commons/9/90/Camelops_color.jpg',
-    description: `NeoCamelops, like NeoMammoths, were altered organisms. Their bas genome was that of extant camels, but some genetic samples were taken from actual frozen Camelops specimens in Alaska, and other genes were altered so superficial cloned of the ancient American camels were alive once more. These camels could make fertile offspring, since they barely differ from their extant relative genetically speaking. Camelops and Mammoths both once existed in North America thousands of years ago before being wiped out by humans. Tex saw it as a strange sort of atonement for humankind to bring these species to life, and personally would have invested in making more viable and fertile offspring without outside help, but would eventually be forced off Parias by the SpacePETA incident. He would never live to see Parias as a free world again. <b style="color:red;">REDACTED</b>`,
+    description: `NeoCamelops, like NeoMammoths, were altered organisms. Their bas genome was that of extant camels, but some genetic samples were taken from actual frozen Camelops specimens in Alaska, and other genes were altered so superficial cloned of the ancient American camels were alive once more. These camels could make fertile offspring, since they barely differ from their extant relative genetically speaking. Camelops and Mammoths both once existed in North America thousands of years ago before being wiped out by humans. <b style="color:red;">REDACTED</b>`,
     wikipedia: 'https://en.m.wikipedia.org/wiki/Camelops',
     keywords: 'chordates;seed;animal;'
   },
